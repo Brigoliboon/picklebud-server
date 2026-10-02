@@ -1,0 +1,5 @@
+numpy>=2.0
+onnxruntime>=1.28
+opencv-python>=4.10
+fastapi>=0.110
+uvicorn[standard]>=0.29
